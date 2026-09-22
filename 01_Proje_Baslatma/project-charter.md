@@ -1,20 +1,21 @@
+\
 ---
-name: Project Charter
-template_version: 0.0.0
-status: Active
-category: Governance
+name: "Project Charter"
+template_version: "0.0.0"
+status: "Active"
+category: "Governance"
 authority: "Implementing AS9100 8.5.6"
-file_path: [artifacts/initiating/A04-project-charter-template.md](.)
+file_path: "Phase 1/project-charter.md"
 ---
 
 # ERP Implementation Project Charter
 
 **Artifact ID:** ERP001  
-**Artifact Name:** ERP Implementation Project Charter  
+**Artifact Name:** "ERP Implementation Project Charter"  
 **Template Version:** 0.0.0  
 **Status:** Active  
-**Authority:** Implementing AS9100 8.5.6   
-**File Path:** `[artifacts/initiating/A04-project-charter-template.md](.)`
+**Authority:** "Implementing AS9100 8.5.6 "  
+**File Path:** `Phase 1/project-charter.md`
 
 > **Usage note:** İsteğe Bağlı olarak işaretlenen alanlar yalnızca proje başlatma aşamasında bilginin gerçekten mevcut olmadığı durumlarda ertelenebilir ve planlama sürecinde tamamlanması için bir yaklaşım belirlenmiş olmalıdır. Proje Başlatma Belgesi, kapsamlı proje yönetim planının yerine kullanılmamalıdır.
 
@@ -22,7 +23,7 @@ file_path: [artifacts/initiating/A04-project-charter-template.md](.)
 
 ## Proje Kimliği
 
-| Alan | Değer |
+| --- | --- |
 |---|---|
 | **Proje Adı** | ERP Entegrasyonu Proje Başlatma Aşaması |
 | **Proje ID / Kodu** | ERP001 |
@@ -111,6 +112,12 @@ Sistem kullanım sonuçlarının değerlendirilmesi,
 İyileştirme faaliyetlerinin planlanması.
 
 Proje kapsamında ERP sisteminin; teklif, sipariş, üretim planlama, malzeme yönetimi, kalite kontrol, izlenebilirlik ve sevkiyat süreçlerini destekleyecek şekilde uygulanması hedeflenmektedir.
+
+ERP geçiş projesinin organizasyon, süreçler ve ilgili taraflarla etkileşimi aşağıdaki diyagramda gösterilmiştir.
+
+![Project Context Diagram](Project_Context_Diagram.png)
+
+**Şekil 1 - ERP Proje Bağlam Diyagramı**
 
 ## 5 — Kapsam Dışı
 
@@ -250,7 +257,7 @@ Başlangıç risk alanlarının değerlendirilmiş olması,
 Proje ilkelerinin belirlenmiş olması,
 Bir sonraki faz olan Operasyonel Süreç Keşfi ve Gereksinim Analizi için gerekli proje altyapısının oluşturulmuş olması.
 
-## Section 9 — Onaylar
+## Onaylar
 
 | Rol | İsim | İmza | Tarih |
 |---|---|---|---|
@@ -258,8 +265,10 @@ Bir sonraki faz olan Operasyonel Süreç Keşfi ve Gereksinim Analizi için gere
 | Proje Yöneticisi | Ezgi ÖZCAN | [FIELD: Signature or digital approval] | [FIELD: YYYY-MM-DD] |
 
 
-## Change Log
+## Değişiklik Geçmişi
 
 | Versiyon | Tarih | Hazırlayan | Değişiklik Açıklaması |
 |---|---|---|---|
 | 0.0.0 | 22.09.2026 | Ezgi ÖZCAN | Proje Başlatma Fazı  |
+
+ \---

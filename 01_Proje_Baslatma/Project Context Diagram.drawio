@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sayfa-1" id="4M-zIG6KY9UDxbpSEt8U">
+    <mxGraphModel dx="1122" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-7" edge="1" parent="1" source="7JCT7s5uZKKIjNAAC2W_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7JCT7s5uZKKIjNAAC2W_-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="360" />
+              <mxPoint x="170" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-14" edge="1" parent="1" source="7JCT7s5uZKKIjNAAC2W_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7JCT7s5uZKKIjNAAC2W_-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="380" />
+              <mxPoint x="260" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-20" edge="1" parent="1" source="7JCT7s5uZKKIjNAAC2W_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7JCT7s5uZKKIjNAAC2W_-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="360" />
+              <mxPoint x="720" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-23" edge="1" parent="1" source="7JCT7s5uZKKIjNAAC2W_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7JCT7s5uZKKIjNAAC2W_-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="380" />
+              <mxPoint x="563" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ERP Tabanlı Operasyonel Süreç Dönüşümü" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-11" edge="1" parent="1" source="7JCT7s5uZKKIjNAAC2W_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="7JCT7s5uZKKIjNAAC2W_-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="AS9100 Rev.D" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-12" edge="1" parent="1" source="7JCT7s5uZKKIjNAAC2W_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7JCT7s5uZKKIjNAAC2W_-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="YÖNETİM DESTEĞİ" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Satış/Teklif" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-10" edge="1" parent="1" source="7JCT7s5uZKKIjNAAC2W_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7JCT7s5uZKKIjNAAC2W_-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="MÜŞTERİ GEREKLİLİKLERİ" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Satın Alma" vertex="1">
+          <mxGeometry height="60" width="120" x="213" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-17" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Üretim" vertex="1">
+          <mxGeometry height="60" width="120" x="503" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-19" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Kalite Kontrol" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-21" edge="1" parent="1" source="7JCT7s5uZKKIjNAAC2W_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7JCT7s5uZKKIjNAAC2W_-15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="390" />
+              <mxPoint x="410" y="390" />
+            </Array>
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7JCT7s5uZKKIjNAAC2W_-15" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Depo" vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
