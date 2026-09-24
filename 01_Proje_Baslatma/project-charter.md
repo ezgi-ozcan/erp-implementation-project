@@ -5,7 +5,7 @@ template_version: "0.0.0"
 status: "Active"
 category: "Governance"
 authority: "Implementing AS9100 8.5.6"
-file_path: "Phase 1/project-charter.md"
+file_path: "01_Proje_Baslatma/project-charter.md"
 ---
 
 # ERP Implementation Project Charter
@@ -15,7 +15,7 @@ file_path: "Phase 1/project-charter.md"
 **Template Version:** 0.0.0  
 **Status:** Active  
 **Authority:** "Implementing AS9100 8.5.6 "  
-**File Path:** `Phase 1/project-charter.md`
+**File Path:** `01_Proje_Baslatma/project-charter.md`
 
 > **Usage note:** İsteğe Bağlı olarak işaretlenen alanlar yalnızca proje başlatma aşamasında bilginin gerçekten mevcut olmadığı durumlarda ertelenebilir ve planlama sürecinde tamamlanması için bir yaklaşım belirlenmiş olmalıdır. Proje Başlatma Belgesi, kapsamlı proje yönetim planının yerine kullanılmamalıdır.
 
